@@ -1,0 +1,32 @@
+
+.navbar-item {
+    list-style: none;
+    float: left;
+    border-right: 1px solid black !important;
+    text-align: center;
+    padding: 0 10px;
+    position: relative;
+
+}
+
+.main{
+    position: absolute;
+    top: 150px;
+    padding: 0 20px;
+}
+
+.navbar {
+    width: 100%;
+    text-align: center;
+    
+
+}
+
+.sidebar {
+    clear: both;
+    float: left;
+    padding: 0 20px;
+}
+
+
+
